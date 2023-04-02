@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **FastAPI, Django, DRF**
 
-- 📫 How to reach me **ramazanui2002@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://codeforces.com/profile/ramzes777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ramzes777" height="30" width="40" /></a>
+<a href="https://t.me/ramazanchig" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="ramazanchig" height"30" width="40" /></a> &nbsp; <a href="https://codeforces.com/profile/ramzes777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ramzes777" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
