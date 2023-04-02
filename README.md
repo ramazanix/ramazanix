@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazan2002&label=Profile%20views&color=0ff535&style=flat" alt="ramazan2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazan2002" alt="ramazan2002" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ramazan2002" alt="ramazan2002" /> </p>
 
 - 🌱 I’m currently learning **FastAPI, Django, DRF**
 
