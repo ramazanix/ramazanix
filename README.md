@@ -46,7 +46,7 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://t.me/ramazanchig" target="blank"><img align="center" src="https://raw.githubusercontent.com/escalopa/escalopa/main/img/telegram.svg" alt="ramazanchig" height"40" width="40" /></a> &nbsp;<a href="https://codeforces.com/profile/ramzes777" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ramzes777" height="40" width="40" /></a>
+<a href="https://t.me/ramazanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/escalopa/escalopa/main/img/telegram.svg" alt="ramazanix" height"40" width="40" /></a> &nbsp;<a href="https://codeforces.com/profile/ramzes777" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ramzes777" height="40" width="40" /></a>
 </p>
 </br>
 </br>
