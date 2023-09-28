@@ -27,7 +27,7 @@
   </ul>
   <ul>
     <summary>
-      <h2>🌱 I’m currently learning FastAPI, RabbitMQ and Machine Learning</h2>
+      <h2>🌱 I’m currently learning FastAPI, React, NextJS, RabbitMQ and Machine Learning</h2>
     </summary>
   </ul>
 </div>
