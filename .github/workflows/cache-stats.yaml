@@ -1,0 +1,43 @@
+name: Cache Action
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */4 * * *
+
+jobs:
+  stats:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats
+        name: Download the stats file
+        with:
+          url: "https://github-stats-pzs6w4e90-ramazanix.vercel.app/api?username=ramazanix&show_icons=true&locale=en&bg_color=fffefe,a54dff,ff3eda,d4ff3e&title_color=fff33e&text_color=fff66f&icon_color=a6148a&ring_color=a54dff&hide_border=true&custom_title=My%20Stats&border_radius=25&count_private=true" # Put your own vercel instance URL here
+          target: grs
+          filename: stats.svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: stats
+          path: grs
+
+  push:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Push
+    needs: [stats]
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: stats
+          path: grs
+      - name: Push
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: resource/grs # May change to your desired branch name, the final URL need to be updated if you change this
+          build_dir: grs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
