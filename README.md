@@ -26,7 +26,7 @@
   </ul>
   <ul>
     <summary>
-      <h2>🌱 I’m currently learning React, NextJS, MobX and Prisma ORM</h2>
+      <h2>🌱 I’m currently programming with React, NextJS, MobX and Prisma ORM</h2>
     </summary>
   </ul>
 </div>
