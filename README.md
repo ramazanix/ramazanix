@@ -4,7 +4,7 @@
       <h1>Hi 👋, I'm Ramazan</h1>
     </summary>
   </ul>
-  <h3>Front-end developer from Russia, Kazan</h3>
+  <h3>Frontend developer from Russia, Kazan</h3>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramazanix&label=Views&color=A54DFF&style=flat" alt="ramazanix" /> </p>
